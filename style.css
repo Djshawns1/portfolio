@@ -1,8 +1,50 @@
-.topRowLinks{
-    display: flex;
-    justify-content: left;
+.header{
+    background-color: #1F2937;
+    display:flex;
+    justify-content: space-around;
+    border: 1px, solid,green;
+    color: white;
+    text-decoration: none;
 }
-.rightSideLinks{
+.homelink{
     display: flex;
+    justify-content: flex-start;
+    border: 1px, solid,green;
+   
+}
+
+.rightSideLinks {
+    display: flex;
+    justify-content: flex-end;
+    border-style: 1px, solid,green;
+}
+
+a:link{
+    color:white;
+    text-decoration: none;
+    
+}
+a:visted{
+    color:red
+}
+/* .topRowLinks{
+    display: flex;
+    justify-content: space-between;
+    
+} */
+/* .rightSideLinks{
+    display: flex;
+    justify-content: space-around;
     justify-content: right;
+} */
+/* .headerText{
+    display:flex;
+    justify-content: center;
+} */
+.button1, .button2,  .footerBox{
+    background-color: #3882F6;
+}
+
+.img{
+    border-color: #3882F6;
 }
