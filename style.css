@@ -1,0 +1,8 @@
+.topRowLinks{
+    display: flex;
+    justify-content: left;
+}
+.rightSideLinks{
+    display: flex;
+    justify-content: right;
+}
