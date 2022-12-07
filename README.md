@@ -1,3 +1,9 @@
+12/7/2022 9:30
+Figured out the font size. It's "font-size".
+Messing around with flex-box again. This time trying to get text and picture to line up side by side.
+h1, h2, and button I want on the right and picture on the left aligned evenly. 
+Right now I'm thinking flexing them in columns then have the picture the same size as all the text but aligned evenly with them.
+Next task understand flex-basis, flex-shrink, and flex-grow. I'm thinking of using a percentage for each item. Like image gets 50% button, h1, and h2 get 16.3%. then picture is aligned-right.
 12/6/2022 19:42
 Restarted Flexbox tutorial
 Changed div  div to nav div. moved title outside of nav div.
