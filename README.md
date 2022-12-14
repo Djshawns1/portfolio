@@ -1,3 +1,6 @@
+12/14/2022 22:27
+Added photos tried to flex--denied
+
 12/7/2022 9:30
 Figured out the font size. It's "font-size".
 Messing around with flex-box again. This time trying to get text and picture to line up side by side.
