@@ -1,3 +1,8 @@
+12/17/2022 21:31
+Figured Flexbox paritally.
+Body is fully flexed and moving as wanted
+Next footer and hero thingy
+
 12/17/2022
 Spent all day trying to get flexbox working.
 really failing at this.
