@@ -1,5 +1,6 @@
-12/14/2022 22:27
-Added photos tried to flex--denied
+12/17/2022
+Spent all day trying to get flexbox working.
+really failing at this.
 
 12/7/2022 9:30
 Figured out the font size. It's "font-size".
